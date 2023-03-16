@@ -1,2 +1,2 @@
 # climbingDiary
-Simple Climbing Diary... Needs some organizing, need to condense some functions, but whatevs. 
+Simple console application that acts as a diary that keeps track of climbing routes completed.
